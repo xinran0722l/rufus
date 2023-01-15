@@ -28,7 +28,8 @@ def show_git_status(git_dir):
 
 
 def test():
-  show_git_status(git_dir="/Users/xinran/Desktop/rufus")
+  # repalce the git_dir by your own repo link
+  show_git_status(git_dir="/Users/xinran/Desktop/rufus") 
 
 
 def run_as_command():

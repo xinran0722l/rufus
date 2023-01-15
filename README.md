@@ -4,7 +4,7 @@ Rufus - simple implementation to test git status
 Rufus is simple tool which provide several functions on git status about a local git repository.
 
 ### environment
-macOS
+macOS, python3
 
 ### installation 
 ```
