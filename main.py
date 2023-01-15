@@ -4,8 +4,7 @@ import sys
 import time
 
 import git
-# need to install gitpython , pip3 install GitPython -i https://mirrors.aliyun.com/pypi/simple/
-
+# need to install gitpython , pip3 install GitPython
 def show_git_status(git_dir):
   repo = git.Repo.init(path=git_dir)
   # current branch
